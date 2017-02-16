@@ -1,0 +1,8 @@
+w00-170207-13-LR-About: Introduction to Operating System, From: Lecturer Mr. Rahmat
+w00-170207-13-LR-About: The differences between Free Software and Open Source, From: Lecturer Mr. Rahmat
+w01-170214-13-LR-About: HKI (Hak Kekayaan Intelektual), From: lecturer Mr. Rahmat
+w01-170214-16-LR-About: The differences between Copyright and Paten, From: Book- Guide to Operating System
+w01-170216-13-LR-About: Scripting, Methods, Commands for programmers, Awk, Regular Expression, From: Lecturer Mr. Rahmat
+w01-170216-15-PS-About: memperdalam pemakaian github seperti membuat file, menghapus file, cloning repository, push and pull repository, using vi and nano text editor, From: Scele
+w01-170216-17-DS-About: membahas tentang kegunaan github, menghandle error dalam server badak, with: Ghea dan Maktal
+w01-170216-17-LR-About: menonton video Free Sofwtware, From: Arsip Video ETC 00
