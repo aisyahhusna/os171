@@ -6,3 +6,8 @@ w01-170216-13-LR-About: Scripting, Methods, Commands for programmers, Awk, Regul
 w01-170216-15-PS-About: memperdalam pemakaian github seperti membuat file, menghapus file, cloning repository, push and pull repository, using vi and nano text editor, From: Scele
 w01-170216-17-DS-About: membahas tentang kegunaan github, menghandle error dalam server badak, with: Ghea dan Maktal
 w01-170216-17-LR-About: menonton video Free Sofwtware, From: Arsip Video ETC 00
+w02-170221-13-LR-About: Scrpting and its properties, From: Slide
+w02-170221-16-LR-About: Scripting 02, From: Slide
+w02-170223-13-LR-About: Scripting 02 03, From: Slide
+w02-170224-16-PS-About: Do task lab week02
+w02-170224-21-PS-About: Do task lab week02
