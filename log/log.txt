@@ -11,3 +11,14 @@ w02-170221-16-LR-About: Scripting 02, From: Slide
 w02-170223-13-LR-About: Scripting 02 03, From: Slide
 w02-170224-16-PS-About: Do task lab week02
 w02-170224-21-PS-About: Do task lab week02
+w03-170228-11-LR-About: BIOS & BOOTING, FROM: engineersgarage.com/turorials/how-computer-pc-boots-up
+w03-170302-16-Lab SESSION: Starting Script
+w04-170307-13-LS-About: Addressing and Pointer, FROM: Lecturer
+w04-170307-13-LS-About: Addressing&Pointer and global&local variables, FROM: Lecturer
+w04-170307-14-LS-Watching demos from Lecturer
+w04-170309-13-LS-About: I/O Process, From: Lecturer
+w04-170309-16-PS-Learning about addressing and pointer
+w04-170310-12-PS-Lab Session about global variables and local variables
+w04-170310-13-PS-Lab session about pointer
+w04-170310-20-PS-Learning and trying to trace demos 06-ptr.c
+w04-170310-22-PS-Lab session about I/O Process
