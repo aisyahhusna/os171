@@ -22,3 +22,12 @@ w04-170310-12-PS-Lab Session about global variables and local variables
 w04-170310-13-PS-Lab session about pointer
 w04-170310-20-PS-Learning and trying to trace demos 06-ptr.c
 w04-170310-22-PS-Lab session about I/O Process
+w05-170314-13-LR-About: Address Binding From: Mr. Rahmat as lecturer
+w05-170314-13.30-LR-About: Adress Space From: Mr. Rahmat as lecturer
+w05-170314-14.30-LR:About: MMU From: Mr. Rahmat
+w05-170316-13-LR-About: Swapping From: Mr. Rahmat
+w05-170316-13.30-PS-About: FIFO, LRU, Optimalization From: Mr.Rahmat
+w05-170316-14.10-PS-About: PTE, PT1, PT2, offset From: Mr. Rahmat
+w05-170316-16.30-PS-About: Do task Lab week05
+w05-170317-12.30-DS-About: configuration memory and display with Alberto
+w05-170317-13-PS-About: Do task Lab week05
