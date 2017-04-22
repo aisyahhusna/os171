@@ -34,3 +34,5 @@ w05-170317-13-PS-About: Do task Lab week05
 w06-170411-13-LR-About: Process, From: Lecturer Mr. Rahmat Samik Ibrahim
 w06-170411-13-LR-About: Threads, From: Lecturer Mr. Rahmat Samik Ibrahim
 w06-170412-14-PS-About: Do the task lab week06
+w07-170420-13-LR-About: Matter week07, From: Lecturer
+w07-170422-02-PS-About: Doing lab session
