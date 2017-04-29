@@ -36,3 +36,10 @@ w06-170411-13-LR-About: Threads, From: Lecturer Mr. Rahmat Samik Ibrahim
 w06-170412-14-PS-About: Do the task lab week06
 w07-170420-13-LR-About: Matter week07, From: Lecturer
 w07-170422-02-PS-About: Doing lab session
+w08-170420-13-LR-About: IO burst, CPU burst From: Lecturer, Mr. Rahmat Samik Ibrahim
+w08-170420-13.30-LR-About: Burst algorithm (FCFS, SJF, RR) From: Lecturer, Mr. Rahmat Samik Ibrahim
+w08-170420-14.30-LR-About: MultiCore, MultiProcessor  From: Lecturer, Mr. Rahmat Samik Ibrahim
+w08-170425-13-PS-About: Status Process soal PDF 183
+w08-170425-13.30-PS-About: Status Process soal PDF 183
+w08-170425-14.10-PS-About: iStatus Process soal PDF 183
+w08-170425-16-PS-About: Do task lab week08
